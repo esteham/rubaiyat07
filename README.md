@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rubaiyat Afreen</h1>
 <h3 align="center">Web Developer | PHP & Laravel Enthusiast | Tech Explorer</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&height=45&lines=Web+Developer+from+Bangladesh;Passionate+about+Laravel+%7C+PHP+%7C+MySQL;Always+learning+new+technologies+🚀" />
-</p>
+ </p> -->
 
 ---
 
